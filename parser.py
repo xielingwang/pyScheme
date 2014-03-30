@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+
+#=================================================
+# copyright Amin By [http://aminby.net]
+# Since 2014-4
+#=================================================
  
 import re
 from expression import SExpression

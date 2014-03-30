@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#=================================================
+# copyright Amin By [http://aminby.net]
+# Since 2014-4
+#=================================================
+
 from parser import SParser
 
 PRT_FAIL = '\033[91m'

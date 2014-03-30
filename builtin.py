@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+#=================================================
+# copyright Amin By [http://aminby.net]
+# Since 2014-4
+#=================================================
+
 import math
 from operator import mul
 from scope import SScope
